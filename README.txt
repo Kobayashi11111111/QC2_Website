@@ -3,8 +3,7 @@ QC Study — QC検定2級 学習サイト試作
 開き方：index.html をブラウザで開き、各ページへ移動してください。
 
 ページ構成：
-- index.html: サイトの入口
-- qc2.html: QC検定2級トップページ
+- index.html: サイトの入口・QC検定2級トップページ
 - math-statistics.html: 数学・統計の学習ガイド
 - statistics-basics.html: 平均・分散・標準偏差（データの基礎）
 - probability-distributions.html: 二項分布・ポアソン分布・正規分布
